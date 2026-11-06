@@ -4,6 +4,8 @@ I'm a landscaper in Mississippi. I take care of turf — fertilizer, weed contro
 
 I'm a family man. I've played guitar since I was 14.
 
+**Now:** Currently building the lawn planner one session at a time, from lawn care to tech.
+
 ## What I'm learning
 
 - **Python** — small, readable programs
@@ -28,6 +30,12 @@ The loop includes:
 
 All 9 session checks pass.
 
+**[Lawn-Planner-](https://github.com/AaronSabbath22/Lawn-Planner-)** is a Python spray-day checker for Brandon, Mississippi. I'm building it in public. It pulls a free weather forecast (Open-Meteo) and marks each hour GO or NO for spraying based on rain, wind, temperature, and rain in the past 48 hours. I built it from real field rules I use on the job. Sessions 1 and 2 are done. Session 3 is next: watering and a drying window.
+
 ## Open to work
 
 I'm open to entry-level AI and tech opportunities.
+
+## Follow along
+
+I post what I'm building and learning on X: [@Aaronguitar1122](https://x.com/Aaronguitar1122).
